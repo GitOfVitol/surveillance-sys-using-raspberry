@@ -37,5 +37,5 @@
 <ol>
 <li> 연구목표 : Stand Alone 방식 + Multi-Face Recognition </li>
 <li> 시스템 구조</li>  
-
+![image](https://user-images.githubusercontent.com/68807984/108623705-b9b33780-7483-11eb-8c77-6cc1414904a8.png)
 </ol>
