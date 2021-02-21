@@ -35,11 +35,11 @@
 
 ## 프로젝트 내용 🌱
 <ol>
-<li> <b>연구목표</b> : Stand Alone 방식 + Multi-Face Recognition </li>
+<li> <b>연구목표</b> : 라즈베리파이 Stand Alone 방식 + Multi-Face Recognition </li>
 <li> <b>시스템 구조</b> </li>
   <ul>
   <li> 사전작업 시나리오 </li>
-  <img src = "1.png">
+  <img src = "1.png"> <br> <br>
   <li> 라즈베리파이에서 진행되는 시나리오 </li>
   <img src = "2.png">
   </ul>
