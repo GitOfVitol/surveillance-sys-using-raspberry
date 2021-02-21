@@ -36,5 +36,6 @@
 ## 프로젝트 내용 🌱
 <ol>
 <li> 연구목표 : Stand Alone 방식 + Multi-Face Recognition </li>
-<li> 시스템 구조</li>  
+<li> 시스템 구조</li>
+<img src = "1.png">
 </ol>
